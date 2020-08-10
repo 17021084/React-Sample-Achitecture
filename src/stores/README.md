@@ -1,0 +1,1 @@
+Mỗi reduce sẽ lưu vào 1 folder (action và reducẻ)

@@ -1,0 +1,1 @@
+// type và reducer vất cùng 1 chỗ
